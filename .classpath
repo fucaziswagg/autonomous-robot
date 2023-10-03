@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="."/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/jssc-2.9.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://classes.cec.wustl.edu//~SEAS-SVC-CSE132/jssc-2.9.1/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jars/slf4j-nop-1.7.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
